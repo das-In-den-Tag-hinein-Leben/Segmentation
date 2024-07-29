@@ -1,0 +1,7 @@
+path: E:\1\Segmentation\database\train_set
+train: E:\1\Segmentation\database\train_set\images\train
+val: E:\1\Segmentation\database\train_set\images\val
+
+
+names: ['0','1','2','3','4']
+
